@@ -55,7 +55,7 @@ def display(grid):
     time.sleep(2)
 
 
-
+print("Conway's Game of Life")
 
 for _ in range(0, 20):
     os.system("cls")
